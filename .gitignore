@@ -1,0 +1,7 @@
+# IDEs settigns folders
+.vscode/
+
+# compile files
+build/
+devel/
+logs/
